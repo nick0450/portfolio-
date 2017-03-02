@@ -21,9 +21,12 @@ li a:hover {
 }
 
 
-h1  { color: 	#00FF00; }
+h1  { color: #00FF00; }
 
-p   { font-size:  20px;  
-     color:  #00FF00;    } 
+p  
+{
+    font-size: 20px;  
+     color: #00FF00;   
+} 
 
 
