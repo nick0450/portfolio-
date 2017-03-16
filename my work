@@ -9,4 +9,10 @@
 <p>This is a paragraph.</p>
 
 </body>
+    <ul>
+  <li><a href="hobbies.html">Hobbies</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
 </html>
